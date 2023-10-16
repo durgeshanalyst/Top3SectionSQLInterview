@@ -27,4 +27,3 @@
 - Deletion: Removing item whihc is not required.
 - Updation: updation cause of change for same item.
 
-Please write in English language.
